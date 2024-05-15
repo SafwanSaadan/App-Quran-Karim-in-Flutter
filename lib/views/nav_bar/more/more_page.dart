@@ -5,7 +5,6 @@ import 'package:quran_karim/core/helper_methods.dart';
 import 'package:quran_karim/views/constant/logo_name.dart';
 import 'package:quran_karim/views/quran_font/quran_font.dart';
 import 'package:store_redirect/store_redirect.dart';
-
 import '../../developer/developer_info.dart';
 import 'theme_button.dart';
 

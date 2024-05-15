@@ -15,7 +15,7 @@ class NavBarView extends StatefulWidget {
 }
 
 class _NavBarViewState extends State<NavBarView> {
-  int currentIndex = 0;
+  int currentIndex = 2;
   List screens = const [
     MorePage(),
     QiblahDetails(),
